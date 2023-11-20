@@ -1,0 +1,74 @@
+h1 {
+    font-family: 'Impact';
+    }
+header {
+    background-color: #0794d1;
+    }
+    nav {
+    background-color: #1f2025;
+    .navbar {
+        background-color: #6ab446 !important;
+    }
+    .nav-link, .navbar-brand {
+        color:#ffffff;
+    }
+    .nav-link:hover {
+        color: black;
+    }
+    } main {
+    margin-top: 50px;
+    }
+    footer {
+    background-color: #000000;
+    color: #ffffff;
+    }
+    .navbar-nav a:link { color: #FEF7EC; } .navbar-nav a:visited { color: #FEF7EC; } .navbar-nav a:hover { color: #b8f7b2; } .navbar-nav a:active { color: #b8f7b2; }
+    .navbar-nav .active{
+    color:#b8f7b2 !important;
+    }
+    #heroHome {
+    background-image: url('tb.webp'); background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding: 20px 0;
+    }
+    #heroText {
+    padding: 25px;
+    margin: 40px;
+    color: white;
+    backdrop-filter: blur(6px) saturate(102%);
+    -webkit-backdrop-filter: blur(6px) saturate(102%); background-color: rgba(0, 0, 0, 0.45);
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.45); }
+    .recipe-card {
+    width: 100%;
+    margin-bottom: 10px;
+    }
+    #AdditionalResources {
+        background-color: #000000;
+    }
+    table tr td, table tr th{ background-color: #ffffff !important;
+    border-color: rgb(0, 0, 0);
+    }
+    a:link { color: #91b08e;}
+    a:visited { color: #91b08e;}
+    a:hover { color: #91b08e;}
+    .logoImg {
+    width: 100px;
+    }
+    .logoDiv {
+        text-align: center;
+    }
+    .YouTubeVideo { background-color: #9efcc4;
+        border: 5px;
+        vertical-align: top;
+        color: #2d2c2c;
+        }
+        
+    .VideoWidget {background-color: #0794d1;
+        border: 5px;
+        vertical-align: top;
+        color: #92f0a6;
+        }
+  
+  
